@@ -25,6 +25,18 @@ Download the data (images, annotation, calibrations) from [here]()
 The dataset folder structure is as following:
 ```
 MultiviewC
+    annotations
+        0000.json
+        0001.json
+        ...
+        
+    calibrations
+        Camera1
+            parameters.json
+        Camera2
+        ...
+        Camera7
+        
     images
         C1
             0000.png
@@ -32,17 +44,7 @@ MultiviewC
             ...
         C2
         ...
-        C7
-    calibrations
-        Camera1
-            parameters.json
-        Camera2
-        ...
-        Camera7
-    annotations
-        0000.json
-        0001.json
-        ...
+        C7 
 ```
 
 ## Toolkits for MultiviewC dataset.
