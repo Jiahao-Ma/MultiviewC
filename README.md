@@ -50,7 +50,7 @@ MultiviewC
 The repo includes the toolkits and utilities for building MultiviewC dataset.
 
 How to's
-- download(from [Baidu Drive] or [Google Drive]) and copy the `annotations`, `images` and `calibrations` folder into this repo.
+- download(from [Baidu Drive]() or [Google Drive]()) and copy the `annotations`, `images` and `calibrations` folder into this repo.
 - run the following command.
 ```shell script
 python data.py
