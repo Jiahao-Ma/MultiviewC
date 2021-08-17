@@ -3,6 +3,10 @@ The MultiviewC dataset mainly contributes to multiview cattle action recognition
 
 ![alt text](https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/gt.png "Visualization of ground true dataset")
 
-The MultiviewC dataset is generated on a 37.5 meter by 37.5 meter square field. It contains 7 cameras monitoring cattle activities. The images in MultiviewC are of high resolution, 1280x720 and synthetic animals in our dataset are highly realistic. The simulation dataset not only provide 3D and 2D object detection annotation, but also simulated the common activities of cattle on the farm, including walking, running, eating, idle and sleeping. To fully exploit the complementary, the intrinsic and extrinsic parameters of each camera are also provided in MultiviewC dataset.
+The MultiviewC dataset is generated on a 37.5 meter by 37.5 meter square field. It contains 7 cameras monitoring cattle activities. The images in MultiviewC are of high resolution, 1280x720 and synthetic animals in our dataset are highly realistic. 
 
 ![alt text](https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/MultiviewC.png "Visualization of MultiviewC")
+
+The simulation dataset not only provide 3D and 2D object detection annotation, but also simulated the common activities of cattle on the farm, including walking, running, eating, idle and sleeping. To fully exploit the complementary, the intrinsic and extrinsic parameters of each camera are also provided in MultiviewC dataset.
+
+![alt text](https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/labeled_MultiviewC.png "Visualization of Labeled MultiviewC")
