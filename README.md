@@ -52,7 +52,7 @@ MultiviewC
 The repo includes the toolkits and utilities for building MultiviewC dataset.
 
 How to's
-- download(from [Baidu Drive](https://pan.baidu.com/s/1__Js2tu77vuA_nn5yZLHQA) `Extraction Code: 6666` or [Google Drive](https://drive.google.com/file/d/1mDujUYcGl1ZdyCv-cbxpPoOs5Ae4Bgfj/view?usp=sharing)) and copy the `annotations`, `images` and `calibrations` folder into this repo. 
+- download (from [Baidu Drive](https://pan.baidu.com/s/1__Js2tu77vuA_nn5yZLHQA) `Extraction Code: 6666` or [Google Drive](https://drive.google.com/file/d/1mDujUYcGl1ZdyCv-cbxpPoOs5Ae4Bgfj/view?usp=sharing)) and copy the `annotations`, `images` and `calibrations` folder into this repo. 
 - run the following command.
 ```shell script
 python data.py
