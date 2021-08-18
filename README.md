@@ -25,26 +25,26 @@ Download the data (images, annotation, calibrations) from [here](https://drive.g
 The dataset folder structure is as following:
 ```
 MultiviewC
-    annotations
-        0000.json
-        0001.json
-        ...
-        
-    calibrations
-        Camera1
-            parameters.json
-        Camera2
-        ...
-        Camera7
-        
-    images
-        C1
-            0000.png
-            0001.png
-            ...
-        C2
-        ...
-        C7 
+├── annotations
+|   ├── 0000.json
+|   ├── 0001.json
+|       ...
+|       
+├── calibrations
+|   ├── Camera1
+|   |   ├── parameters.json
+|   ├── Camera2
+|   |    ...
+|   └── Camera7
+|        
+└── images
+    ├── C1
+    |   ├── 0000.png
+    |   ├── 0001.png
+    |       ...
+    ├── C2
+    |   ...
+    └── C7 
 ```
 
 ## Toolkits for MultiviewC dataset.
