@@ -32,7 +32,7 @@ MultiviewC
 |       
 ├── calibrations
 |   ├── Camera1
-|   |   ├── parameters.json
+|   |   └── parameters.json
 |   ├── Camera2
 |   |    ...
 |   └── Camera7
