@@ -20,7 +20,7 @@ The simulation dataset not only provide 3D and 2D object detection annotation, b
 | `./utils/utils.py`  | Methods for projecting 3D bounding box to 2D image and how to generate 3D bbox in our simulation dataset coordinate  |
 
 ## Dataset
-Download the data (images, annotation, calibrations) from [here](https://drive.google.com/file/d/1mDujUYcGl1ZdyCv-cbxpPoOs5Ae4Bgfj/view?usp=sharing). We have updated a new annotation which has labeled the visibility of each cow at each frame. You can download the new annotation from this [link](https://drive.google.com/drive/folders/1v3TMPJ2K4O8qvkvi4PUXnrVFKDy_ZJtv?usp=sharing).
+Download the data (images, annotation, calibrations) from [here](https://drive.google.com/file/d/1mDujUYcGl1ZdyCv-cbxpPoOs5Ae4Bgfj/view?usp=sharing). We have updated a new annotation which has labeled the visibility of each cow at each frame. You can download the new annotation from this [link](https://drive.google.com/file/d/1orM-HaYZTnAnZ0TlJSOpWiQaS56e1tia/view?usp=sharing).
 
 The dataset folder structure is as following:
 ```
