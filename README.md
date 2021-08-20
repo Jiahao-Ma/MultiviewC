@@ -25,26 +25,26 @@ Download the data (images, annotation, calibrations) from [here](https://drive.g
 The dataset folder structure is as following:
 ```
 MultiviewC
-    annotations
-        0000.json
-        0001.json
-        ...
-        
-    calibrations
-        Camera1
-            parameters.json
-        Camera2
-        ...
-        Camera7
-        
-    images
-        C1
-            0000.png
-            0001.png
-            ...
-        C2
-        ...
-        C7 
+├── annotations
+|   ├── 0000.json
+|   ├── 0001.json
+|       ...
+|       
+├── calibrations
+|   ├── Camera1
+|   |   └── parameters.json
+|   ├── Camera2
+|   |    ...
+|   └── Camera7
+|        
+└── images
+    ├── C1
+    |   ├── 0000.png
+    |   ├── 0001.png
+    |       ...
+    ├── C2
+    |   ...
+    └── C7 
 ```
 
 ## Toolkits for MultiviewC dataset.
@@ -52,7 +52,7 @@ MultiviewC
 The repo includes the toolkits and utilities for building MultiviewC dataset.
 
 How to's
-- download(from [Baidu Drive](https://pan.baidu.com/s/1__Js2tu77vuA_nn5yZLHQA) `Extraction Code: 6666` or [Google Drive](https://drive.google.com/file/d/1mDujUYcGl1ZdyCv-cbxpPoOs5Ae4Bgfj/view?usp=sharing)) and copy the `annotations`, `images` and `calibrations` folder into this repo. 
+- download (from [Baidu Drive](https://pan.baidu.com/s/1__Js2tu77vuA_nn5yZLHQA) `Extraction Code: 6666` or [Google Drive](https://drive.google.com/file/d/1mDujUYcGl1ZdyCv-cbxpPoOs5Ae4Bgfj/view?usp=sharing)) and copy the `annotations`, `images` and `calibrations` folder into this repo. 
 - run the following command.
 ```shell script
 python data.py
