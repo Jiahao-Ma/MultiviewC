@@ -1,0 +1,53 @@
+LogBlueprintUserMessages: [MarkoPlayerController_C_0] X : 1280 Y : 720
+LogBlueprintUserMessages: [CalibrationPoint_3] world location：X=5246.000 Y=2670.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint_3] screen location：X=311.527 Y=404.298
+LogBlueprintUserMessages: [CalibrationPoint2_6] world location：X=5306.000 Y=2020.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint2_6] screen location：X=100.906 Y=472.476
+LogBlueprintUserMessages: [CalibrationPoint3_9] world location：X=4577.000 Y=1797.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint3_9] screen location：X=128.851 Y=545.106
+LogBlueprintUserMessages: [CalibrationPoint4_12] world location：X=4528.000 Y=2304.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint4_12] screen location：X=349.185 Y=455.440
+LogBlueprintUserMessages: [CalibrationPoint5_15] world location：X=3839.000 Y=3458.000 Z=386.000
+LogBlueprintUserMessages: [CalibrationPoint5_15] screen location：X=724.638 Y=246.035
+LogBlueprintUserMessages: [CalibrationPoint6_18] world location：X=5251.000 Y=4012.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint6_18] screen location：X=531.583 Y=327.680
+LogBlueprintUserMessages: [CalibrationPoint7_21] world location：X=4768.000 Y=4913.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint7_21] screen location：X=679.645 Y=295.030
+LogBlueprintUserMessages: [CalibrationPoint8_24] world location：X=5025.000 Y=3303.000 Z=375.000
+LogBlueprintUserMessages: [CalibrationPoint8_24] screen location：X=455.321 Y=277.016
+LogBlueprintUserMessages: [CalibrationPoint9_27] world location：X=3489.000 Y=4271.000 Z=620.000
+LogBlueprintUserMessages: [CalibrationPoint9_27] screen location：X=865.657 Y=163.175
+LogBlueprintUserMessages: [CalibrationPoint10_30] world location：X=2729.000 Y=2490.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint10_30] screen location：X=1172.896 Y=494.931
+LogBlueprintUserMessages: [CalibrationPoint11_33] world location：X=4304.000 Y=2460.000 Z=308.000
+LogBlueprintUserMessages: [CalibrationPoint11_33] screen location：X=426.428 Y=331.877
+LogBlueprintUserMessages: [CalibrationPoint12_36] world location：X=2970.000 Y=3568.000 Z=197.000
+LogBlueprintUserMessages: [CalibrationPoint12_36] screen location：X=1003.580 Y=278.310
+LogBlueprintUserMessages: [CalibrationPoint13_39] world location：X=4208.000 Y=4936.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint13_39] screen location：X=765.842 Y=289.574
+LogBlueprintUserMessages: [CalibrationPoint14_42] world location：X=3296.000 Y=4929.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint14_42] screen location：X=933.866 Y=280.186
+LogBlueprintUserMessages: [CalibrationPoint16_48] world location：X=4641.000 Y=3383.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint16_48] screen location：X=551.269 Y=356.102
+LogBlueprintUserMessages: [CalibrationPoint17_51] world location：X=2541.000 Y=2990.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint17_51] screen location：X=1236.948 Y=400.607
+LogBlueprintUserMessages: [CalibrationPoint18_54] world location：X=4660.000 Y=2617.000 Z=-0.000
+LogBlueprintUserMessages: [CalibrationPoint18_54] screen location：X=406.102 Y=415.651
+LogBlueprintUserMessages: [CalibrationPoint20_60] world location：X=3776.000 Y=5363.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint20_60] screen location：X=855.500 Y=274.163
+LogBlueprintUserMessages: [CalibrationPoint21_63] world location：X=3387.000 Y=2665.000 Z=258.000
+LogBlueprintUserMessages: [CalibrationPoint21_63] screen location：X=786.549 Y=324.349
+LogBlueprintUserMessages: [CalibrationPoint23_69] world location：X=2480.000 Y=4778.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint23_69] screen location：X=1134.292 Y=273.904
+LogBlueprintUserMessages: [CalibrationPoint24_72] world location：X=4842.000 Y=2970.000 Z=416.000
+LogBlueprintUserMessages: [CalibrationPoint24_72] screen location：X=423.868 Y=276.320
+LogBlueprintUserMessages: [CalibrationPoint26_78] world location：X=2395.000 Y=4394.000 Z=341.000
+LogBlueprintUserMessages: [CalibrationPoint26_78] screen location：X=1184.035 Y=195.706
+LogBlueprintUserMessages: [CalibrationPoint27_81] world location：X=3246.000 Y=4548.000 Z=233.000
+LogBlueprintUserMessages: [CalibrationPoint27_81] screen location：X=936.243 Y=241.982
+LogBlueprintUserMessages: [CalibrationPoint28_84] world location：X=3743.000 Y=3055.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint28_84] screen location：X=717.571 Y=381.892
+LogBlueprintUserMessages: [CalibrationPoint29_87] world location：X=3437.000 Y=2537.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint29_87] screen location：X=756.530 Y=451.801
+LogBlueprintUserMessages: [CalibrationPoint30_90] world location：X=2710.000 Y=5471.000 Z=0.000
+LogBlueprintUserMessages: [CalibrationPoint30_90] screen location：X=1060.997 Y=258.204
