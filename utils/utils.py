@@ -13,14 +13,14 @@ def vis_styles(facecolor='red', alpha=0.5, size=10, color='black'):
     styles = {"size": size, "color": color, "bbox": box}
     return styles
 
-def get_worldgrid_from_worldcoord(worldcoord, len_of_each_grid = 100):
+def m2cm(worldcoord, len_of_each_grid = 100):
     coord_x, coord_y = worldcoord
     coord_x = coord_x * len_of_each_grid
     coord_y = coord_y * len_of_each_grid
     return np.array([coord_x, coord_y], dtype=int)
 
 
-def get_worldcoord_for_imagecoord(worldcoord, len_of_each_grid = 100):
+def cm2m(worldcoord, len_of_each_grid = 100):
     if isinstance(worldcoord, list):
         worldcoord = [c / len_of_each_grid for c in worldcoord]
         return worldcoord
@@ -57,8 +57,7 @@ def project_to_image(corner_3d, calib):
 
 
 def compute_3d_bbox(dimension, rotation, location, calib):
-    dimension = get_worldcoord_for_imagecoord(dimension)
-    location = get_worldcoord_for_imagecoord(location)
+
     h, w, l = dimension[0], dimension[1], dimension[2]
     x = [-l / 2, l / 2, l / 2, -l / 2, -l / 2, l / 2, l / 2, -l / 2]
     y = [-w / 2, -w / 2, w / 2, w / 2, -w / 2, -w / 2, w / 2, w / 2]

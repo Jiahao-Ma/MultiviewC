@@ -4,8 +4,8 @@
             "CowID": "Cow0",
             "action": "run",
             "location": [
-                5173,
-                2746,
+                3573,
+                1146,
                 0
             ],
             "rotation": 77,
@@ -20,8 +20,8 @@
             "CowID": "Cow1",
             "action": "walk",
             "location": [
-                3582,
-                3283,
+                1982,
+                1683,
                 0
             ],
             "rotation": -11,
@@ -36,8 +36,8 @@
             "CowID": "Cow2",
             "action": "sleep",
             "location": [
-                2093,
-                1934,
+                493,
+                334,
                 0
             ],
             "rotation": -74,
@@ -52,8 +52,8 @@
             "CowID": "Cow3",
             "action": "eat",
             "location": [
-                5321,
-                2905,
+                3721,
+                1305,
                 0
             ],
             "rotation": -104,
@@ -68,8 +68,8 @@
             "CowID": "Cow4",
             "action": "sleep",
             "location": [
-                1790,
-                4803,
+                190,
+                3203,
                 0
             ],
             "rotation": 92,
@@ -84,8 +84,8 @@
             "CowID": "Cow5",
             "action": "eat",
             "location": [
-                4581,
-                1970,
+                2981,
+                370,
                 0
             ],
             "rotation": 46,
@@ -100,8 +100,8 @@
             "CowID": "Cow6",
             "action": "eat",
             "location": [
-                3927,
-                2143,
+                2327,
+                543,
                 0
             ],
             "rotation": 21,
@@ -116,8 +116,8 @@
             "CowID": "Cow7",
             "action": "sleep",
             "location": [
-                4294,
-                2081,
+                2694,
+                481,
                 0
             ],
             "rotation": -160,
@@ -132,8 +132,8 @@
             "CowID": "Cow8",
             "action": "sleep",
             "location": [
-                2843,
-                3239,
+                1243,
+                1639,
                 0
             ],
             "rotation": -64,
@@ -148,8 +148,8 @@
             "CowID": "Cow9",
             "action": "run",
             "location": [
-                5281,
-                2772,
+                3681,
+                1172,
                 0
             ],
             "rotation": 145,
@@ -164,8 +164,8 @@
             "CowID": "Cow10",
             "action": "run",
             "location": [
-                5233,
-                3003,
+                3633,
+                1403,
                 0
             ],
             "rotation": 83,
@@ -180,8 +180,8 @@
             "CowID": "Cow11",
             "action": "eat",
             "location": [
-                4479,
-                2540,
+                2879,
+                940,
                 0
             ],
             "rotation": -123,
@@ -196,8 +196,8 @@
             "CowID": "Cow12",
             "action": "sleep",
             "location": [
-                4098,
-                2085,
+                2498,
+                485,
                 0
             ],
             "rotation": -158,
@@ -212,8 +212,8 @@
             "CowID": "Cow13",
             "action": "sleep",
             "location": [
-                4714,
-                2449,
+                3114,
+                849,
                 0
             ],
             "rotation": 27,
@@ -228,8 +228,8 @@
             "CowID": "Cow14",
             "action": "eat",
             "location": [
-                3658,
-                1853,
+                2058,
+                253,
                 0
             ],
             "rotation": -52,
@@ -246,8 +246,8 @@
             "CowID": "Cow0",
             "action": "run",
             "location": [
-                5173,
-                2746,
+                3573,
+                1146,
                 0
             ],
             "rotation": 77,
@@ -262,8 +262,8 @@
             "CowID": "Cow1",
             "action": "walk",
             "location": [
-                3587,
-                3282,
+                1987,
+                1682,
                 0
             ],
             "rotation": -11,
@@ -278,8 +278,8 @@
             "CowID": "Cow2",
             "action": "sleep",
             "location": [
-                2093,
-                1933,
+                493,
+                333,
                 0
             ],
             "rotation": -75,
@@ -294,8 +294,8 @@
             "CowID": "Cow3",
             "action": "eat",
             "location": [
-                5321,
-                2904,
+                3721,
+                1304,
                 0
             ],
             "rotation": -104,
@@ -310,8 +310,8 @@
             "CowID": "Cow4",
             "action": "sleep",
             "location": [
-                1790,
-                4803,
+                190,
+                3203,
                 0
             ],
             "rotation": 93,
@@ -326,8 +326,8 @@
             "CowID": "Cow5",
             "action": "eat",
             "location": [
-                4581,
-                1970,
+                2981,
+                370,
                 0
             ],
             "rotation": 46,
@@ -342,8 +342,8 @@
             "CowID": "Cow6",
             "action": "eat",
             "location": [
-                3927,
-                2143,
+                2327,
+                543,
                 0
             ],
             "rotation": 21,
@@ -358,8 +358,8 @@
             "CowID": "Cow7",
             "action": "sleep",
             "location": [
-                4294,
-                2081,
+                2694,
+                481,
                 0
             ],
             "rotation": -160,
@@ -374,8 +374,8 @@
             "CowID": "Cow8",
             "action": "sleep",
             "location": [
-                2843,
-                3239,
+                1243,
+                1639,
                 0
             ],
             "rotation": -63,
@@ -390,8 +390,8 @@
             "CowID": "Cow9",
             "action": "run",
             "location": [
-                5281,
-                2770,
+                3681,
+                1170,
                 0
             ],
             "rotation": 145,
@@ -406,8 +406,8 @@
             "CowID": "Cow10",
             "action": "run",
             "location": [
-                5233,
-                3003,
+                3633,
+                1403,
                 0
             ],
             "rotation": 83,
@@ -422,8 +422,8 @@
             "CowID": "Cow11",
             "action": "eat",
             "location": [
-                4479,
-                2540,
+                2879,
+                940,
                 0
             ],
             "rotation": -122,
@@ -438,8 +438,8 @@
             "CowID": "Cow12",
             "action": "sleep",
             "location": [
-                4098,
-                2085,
+                2498,
+                485,
                 0
             ],
             "rotation": -158,
@@ -454,8 +454,8 @@
             "CowID": "Cow13",
             "action": "sleep",
             "location": [
-                4714,
-                2449,
+                3114,
+                849,
                 0
             ],
             "rotation": 27,
@@ -470,8 +470,8 @@
             "CowID": "Cow14",
             "action": "eat",
             "location": [
-                3658,
-                1852,
+                2058,
+                252,
                 0
             ],
             "rotation": -52,
@@ -488,8 +488,8 @@
             "CowID": "Cow0",
             "action": "run",
             "location": [
-                5173,
-                2746,
+                3573,
+                1146,
                 0
             ],
             "rotation": 77,
@@ -504,8 +504,8 @@
             "CowID": "Cow1",
             "action": "walk",
             "location": [
-                3588,
-                3282,
+                1988,
+                1682,
                 0
             ],
             "rotation": -11,
@@ -520,8 +520,8 @@
             "CowID": "Cow2",
             "action": "sleep",
             "location": [
-                2093,
-                1933,
+                493,
+                333,
                 0
             ],
             "rotation": -75,
@@ -536,8 +536,8 @@
             "CowID": "Cow3",
             "action": "eat",
             "location": [
-                5321,
-                2904,
+                3721,
+                1304,
                 0
             ],
             "rotation": -104,
@@ -552,8 +552,8 @@
             "CowID": "Cow4",
             "action": "sleep",
             "location": [
-                1790,
-                4803,
+                190,
+                3203,
                 0
             ],
             "rotation": 93,
@@ -568,8 +568,8 @@
             "CowID": "Cow5",
             "action": "eat",
             "location": [
-                4581,
-                1970,
+                2981,
+                370,
                 0
             ],
             "rotation": 46,
@@ -584,8 +584,8 @@
             "CowID": "Cow6",
             "action": "eat",
             "location": [
-                3927,
-                2143,
+                2327,
+                543,
                 0
             ],
             "rotation": 21,
@@ -600,8 +600,8 @@
             "CowID": "Cow7",
             "action": "sleep",
             "location": [
-                4294,
-                2081,
+                2694,
+                481,
                 0
             ],
             "rotation": -160,
@@ -616,8 +616,8 @@
             "CowID": "Cow8",
             "action": "sleep",
             "location": [
-                2843,
-                3239,
+                1243,
+                1639,
                 0
             ],
             "rotation": -63,
@@ -632,8 +632,8 @@
             "CowID": "Cow9",
             "action": "run",
             "location": [
-                5280,
-                2767,
+                3680,
+                1167,
                 0
             ],
             "rotation": 145,
@@ -648,8 +648,8 @@
             "CowID": "Cow10",
             "action": "run",
             "location": [
-                5233,
-                3003,
+                3633,
+                1403,
                 0
             ],
             "rotation": 83,
@@ -664,8 +664,8 @@
             "CowID": "Cow11",
             "action": "eat",
             "location": [
-                4479,
-                2540,
+                2879,
+                940,
                 0
             ],
             "rotation": -122,
@@ -680,8 +680,8 @@
             "CowID": "Cow12",
             "action": "sleep",
             "location": [
-                4098,
-                2085,
+                2498,
+                485,
                 0
             ],
             "rotation": -158,
@@ -696,8 +696,8 @@
             "CowID": "Cow13",
             "action": "sleep",
             "location": [
-                4714,
-                2449,
+                3114,
+                849,
                 0
             ],
             "rotation": 27,
@@ -712,8 +712,8 @@
             "CowID": "Cow14",
             "action": "eat",
             "location": [
-                3658,
-                1852,
+                2058,
+                252,
                 0
             ],
             "rotation": -52,
@@ -730,8 +730,8 @@
             "CowID": "Cow0",
             "action": "run",
             "location": [
-                5173,
-                2746,
+                3573,
+                1146,
                 0
             ],
             "rotation": 77,
@@ -746,8 +746,8 @@
             "CowID": "Cow1",
             "action": "walk",
             "location": [
-                3596,
-                3280,
+                1996,
+                1680,
                 0
             ],
             "rotation": -11,
@@ -762,8 +762,8 @@
             "CowID": "Cow2",
             "action": "sleep",
             "location": [
-                2093,
-                1933,
+                493,
+                333,
                 0
             ],
             "rotation": -75,
@@ -778,8 +778,8 @@
             "CowID": "Cow3",
             "action": "eat",
             "location": [
-                5321,
-                2904,
+                3721,
+                1304,
                 0
             ],
             "rotation": -104,
@@ -794,8 +794,8 @@
             "CowID": "Cow4",
             "action": "sleep",
             "location": [
-                1790,
-                4803,
+                190,
+                3203,
                 0
             ],
             "rotation": 93,
@@ -810,8 +810,8 @@
             "CowID": "Cow5",
             "action": "eat",
             "location": [
-                4581,
-                1970,
+                2981,
+                370,
                 0
             ],
             "rotation": 46,
@@ -826,8 +826,8 @@
             "CowID": "Cow6",
             "action": "eat",
             "location": [
-                3927,
-                2143,
+                2327,
+                543,
                 0
             ],
             "rotation": 21,
@@ -842,8 +842,8 @@
             "CowID": "Cow7",
             "action": "sleep",
             "location": [
-                4294,
-                2081,
+                2694,
+                481,
                 0
             ],
             "rotation": -160,
@@ -858,8 +858,8 @@
             "CowID": "Cow8",
             "action": "sleep",
             "location": [
-                2843,
-                3239,
+                1243,
+                1639,
                 0
             ],
             "rotation": -63,
@@ -874,8 +874,8 @@
             "CowID": "Cow9",
             "action": "run",
             "location": [
-                5280,
-                2767,
+                3680,
+                1167,
                 0
             ],
             "rotation": 145,
@@ -890,8 +890,8 @@
             "CowID": "Cow10",
             "action": "run",
             "location": [
-                5233,
-                3003,
+                3633,
+                1403,
                 0
             ],
             "rotation": 83,
@@ -906,8 +906,8 @@
             "CowID": "Cow11",
             "action": "eat",
             "location": [
-                4479,
-                2540,
+                2879,
+                940,
                 0
             ],
             "rotation": -122,
@@ -922,8 +922,8 @@
             "CowID": "Cow12",
             "action": "sleep",
             "location": [
-                4098,
-                2085,
+                2498,
+                485,
                 0
             ],
             "rotation": -158,
@@ -938,8 +938,8 @@
             "CowID": "Cow13",
             "action": "sleep",
             "location": [
-                4714,
-                2449,
+                3114,
+                849,
                 0
             ],
             "rotation": 27,
@@ -954,8 +954,8 @@
             "CowID": "Cow14",
             "action": "eat",
             "location": [
-                3658,
-                1852,
+                2058,
+                252,
                 0
             ],
             "rotation": -52,
@@ -972,8 +972,8 @@
             "CowID": "Cow0",
             "action": "run",
             "location": [
-                5173,
-                2746,
+                3573,
+                1146,
                 0
             ],
             "rotation": 77,
@@ -988,8 +988,8 @@
             "CowID": "Cow1",
             "action": "walk",
             "location": [
-                3599,
-                3280,
+                1999,
+                1680,
                 0
             ],
             "rotation": -11,
@@ -1004,8 +1004,8 @@
             "CowID": "Cow2",
             "action": "sleep",
             "location": [
-                2093,
-                1933,
+                493,
+                333,
                 0
             ],
             "rotation": -75,
@@ -1020,8 +1020,8 @@
             "CowID": "Cow3",
             "action": "eat",
             "location": [
-                5321,
-                2904,
+                3721,
+                1304,
                 0
             ],
             "rotation": -104,
@@ -1036,8 +1036,8 @@
             "CowID": "Cow4",
             "action": "sleep",
             "location": [
-                1790,
-                4803,
+                190,
+                3203,
                 0
             ],
             "rotation": 93,
@@ -1052,8 +1052,8 @@
             "CowID": "Cow5",
             "action": "eat",
             "location": [
-                4581,
-                1970,
+                2981,
+                370,
                 0
             ],
             "rotation": 46,
@@ -1068,8 +1068,8 @@
             "CowID": "Cow6",
             "action": "eat",
             "location": [
-                3927,
-                2143,
+                2327,
+                543,
                 0
             ],
             "rotation": 21,
@@ -1084,8 +1084,8 @@
             "CowID": "Cow7",
             "action": "sleep",
             "location": [
-                4294,
-                2081,
+                2694,
+                481,
                 0
             ],
             "rotation": -160,
@@ -1100,8 +1100,8 @@
             "CowID": "Cow8",
             "action": "sleep",
             "location": [
-                2843,
-                3239,
+                1243,
+                1639,
                 0
             ],
             "rotation": -63,
@@ -1116,8 +1116,8 @@
             "CowID": "Cow9",
             "action": "run",
             "location": [
-                5280,
-                2767,
+                3680,
+                1167,
                 0
             ],
             "rotation": 145,
@@ -1132,8 +1132,8 @@
             "CowID": "Cow10",
             "action": "run",
             "location": [
-                5233,
-                3003,
+                3633,
+                1403,
                 0
             ],
             "rotation": 83,
@@ -1148,8 +1148,8 @@
             "CowID": "Cow11",
             "action": "eat",
             "location": [
-                4479,
-                2540,
+                2879,
+                940,
                 0
             ],
             "rotation": -122,
@@ -1164,8 +1164,8 @@
             "CowID": "Cow12",
             "action": "sleep",
             "location": [
-                4098,
-                2085,
+                2498,
+                485,
                 0
             ],
             "rotation": -158,
@@ -1180,8 +1180,8 @@
             "CowID": "Cow13",
             "action": "sleep",
             "location": [
-                4714,
-                2449,
+                3114,
+                849,
                 0
             ],
             "rotation": 27,
@@ -1196,8 +1196,8 @@
             "CowID": "Cow14",
             "action": "eat",
             "location": [
-                3658,
-                1852,
+                2058,
+                252,
                 0
             ],
             "rotation": -52,
@@ -1214,8 +1214,8 @@
             "CowID": "Cow0",
             "action": "run",
             "location": [
-                5173,
-                2746,
+                3573,
+                1146,
                 0
             ],
             "rotation": 77,
@@ -1230,8 +1230,8 @@
             "CowID": "Cow1",
             "action": "walk",
             "location": [
-                3591,
-                3281,
+                1991,
+                1681,
                 0
             ],
             "rotation": -11,
@@ -1246,8 +1246,8 @@
             "CowID": "Cow2",
             "action": "sleep",
             "location": [
-                2093,
-                1933,
+                493,
+                333,
                 0
             ],
             "rotation": -75,
@@ -1262,8 +1262,8 @@
             "CowID": "Cow3",
             "action": "eat",
             "location": [
-                5321,
-                2904,
+                3721,
+                1304,
                 0
             ],
             "rotation": -104,
@@ -1278,8 +1278,8 @@
             "CowID": "Cow4",
             "action": "sleep",
             "location": [
-                1790,
-                4803,
+                190,
+                3203,
                 0
             ],
             "rotation": 93,
@@ -1294,8 +1294,8 @@
             "CowID": "Cow5",
             "action": "eat",
             "location": [
-                4581,
-                1970,
+                2981,
+                370,
                 0
             ],
             "rotation": 46,
@@ -1310,8 +1310,8 @@
             "CowID": "Cow6",
             "action": "eat",
             "location": [
-                3927,
-                2143,
+                2327,
+                543,
                 0
             ],
             "rotation": 21,
@@ -1326,8 +1326,8 @@
             "CowID": "Cow7",
             "action": "sleep",
             "location": [
-                4294,
-                2081,
+                2694,
+                481,
                 0
             ],
             "rotation": -160,
@@ -1342,8 +1342,8 @@
             "CowID": "Cow8",
             "action": "sleep",
             "location": [
-                2843,
-                3239,
+                1243,
+                1639,
                 0
             ],
             "rotation": -63,
@@ -1358,8 +1358,8 @@
             "CowID": "Cow9",
             "action": "run",
             "location": [
-                5280,
-                2767,
+                3680,
+                1167,
                 0
             ],
             "rotation": 145,
@@ -1374,8 +1374,8 @@
             "CowID": "Cow10",
             "action": "run",
             "location": [
-                5233,
-                3003,
+                3633,
+                1403,
                 0
             ],
             "rotation": 83,
@@ -1390,8 +1390,8 @@
             "CowID": "Cow11",
             "action": "eat",
             "location": [
-                4479,
-                2540,
+                2879,
+                940,
                 0
             ],
             "rotation": -122,
@@ -1406,8 +1406,8 @@
             "CowID": "Cow12",
             "action": "sleep",
             "location": [
-                4098,
-                2085,
+                2498,
+                485,
                 0
             ],
             "rotation": -158,
@@ -1422,8 +1422,8 @@
             "CowID": "Cow13",
             "action": "sleep",
             "location": [
-                4714,
-                2449,
+                3114,
+                849,
                 0
             ],
             "rotation": 27,
@@ -1438,8 +1438,8 @@
             "CowID": "Cow14",
             "action": "eat",
             "location": [
-                3658,
-                1852,
+                2058,
+                252,
                 0
             ],
             "rotation": -52,
@@ -1456,8 +1456,8 @@
             "CowID": "Cow0",
             "action": "run",
             "location": [
-                5173,
-                2746,
+                3573,
+                1146,
                 0
             ],
             "rotation": 77,
@@ -1472,8 +1472,8 @@
             "CowID": "Cow1",
             "action": "walk",
             "location": [
-                3584,
-                3283,
+                1984,
+                1683,
                 0
             ],
             "rotation": -11,
@@ -1488,8 +1488,8 @@
             "CowID": "Cow2",
             "action": "sleep",
             "location": [
-                2093,
-                1933,
+                493,
+                333,
                 0
             ],
             "rotation": -75,
@@ -1504,8 +1504,8 @@
             "CowID": "Cow3",
             "action": "eat",
             "location": [
-                5321,
-                2904,
+                3721,
+                1304,
                 0
             ],
             "rotation": -104,
@@ -1520,8 +1520,8 @@
             "CowID": "Cow4",
             "action": "sleep",
             "location": [
-                1790,
-                4803,
+                190,
+                3203,
                 0
             ],
             "rotation": 93,
@@ -1536,8 +1536,8 @@
             "CowID": "Cow5",
             "action": "eat",
             "location": [
-                4581,
-                1970,
+                2981,
+                370,
                 0
             ],
             "rotation": 46,
@@ -1552,8 +1552,8 @@
             "CowID": "Cow6",
             "action": "eat",
             "location": [
-                3927,
-                2143,
+                2327,
+                543,
                 0
             ],
             "rotation": 21,
@@ -1568,8 +1568,8 @@
             "CowID": "Cow7",
             "action": "sleep",
             "location": [
-                4294,
-                2081,
+                2694,
+                481,
                 0
             ],
             "rotation": -160,
@@ -1584,8 +1584,8 @@
             "CowID": "Cow8",
             "action": "sleep",
             "location": [
-                2843,
-                3239,
+                1243,
+                1639,
                 0
             ],
             "rotation": -63,
@@ -1600,8 +1600,8 @@
             "CowID": "Cow9",
             "action": "run",
             "location": [
-                5281,
-                2770,
+                3681,
+                1170,
                 0
             ],
             "rotation": 145,
@@ -1616,8 +1616,8 @@
             "CowID": "Cow10",
             "action": "run",
             "location": [
-                5233,
-                3003,
+                3633,
+                1403,
                 0
             ],
             "rotation": 83,
@@ -1632,8 +1632,8 @@
             "CowID": "Cow11",
             "action": "eat",
             "location": [
-                4479,
-                2540,
+                2879,
+                940,
                 0
             ],
             "rotation": -122,
@@ -1648,8 +1648,8 @@
             "CowID": "Cow12",
             "action": "sleep",
             "location": [
-                4098,
-                2085,
+                2498,
+                485,
                 0
             ],
             "rotation": -158,
@@ -1664,8 +1664,8 @@
             "CowID": "Cow13",
             "action": "sleep",
             "location": [
-                4714,
-                2449,
+                3114,
+                849,
                 0
             ],
             "rotation": 27,
@@ -1680,8 +1680,8 @@
             "CowID": "Cow14",
             "action": "eat",
             "location": [
-                3658,
-                1852,
+                2058,
+                252,
                 0
             ],
             "rotation": -52,
