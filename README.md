@@ -20,7 +20,7 @@ The simulation dataset not only provide 3D and 2D object detection annotation, b
 | `./utils/utils.py`  | Methods for projecting 3D bounding box to 2D image and how to generate 3D bbox in our simulation dataset coordinate  |
 
 ## Dataset
-Download the data (images, annotation, calibrations) from [here](https://drive.google.com/file/d/1mDujUYcGl1ZdyCv-cbxpPoOs5Ae4Bgfj/view?usp=sharing). We have updated a new annotation which has labeled the visibility of each cow at each frame. You can download the new annotation from this [link](https://drive.google.com/file/d/1orM-HaYZTnAnZ0TlJSOpWiQaS56e1tia/view?usp=sharing).
+Download the data (images, annotation, calibrations) from [here](https://drive.google.com/file/d/1mDujUYcGl1ZdyCv-cbxpPoOs5Ae4Bgfj/view?usp=sharing). We have updated a new annotation which has labeled the visibility of each cow at each frame. You can download the new annotation from this [link](https://pan.baidu.com/s/1s67xf8eznms3eF6GfluYSg)(pwd:6666).
 
 The dataset folder structure is as following:
 ```
@@ -52,7 +52,7 @@ MultiviewC
 The repo includes the toolkits and utilities for building MultiviewC dataset.
 
 How to's
-- download (from [Baidu Drive](https://pan.baidu.com/s/1__Js2tu77vuA_nn5yZLHQA) `Extraction Code: 6666` or [Google Drive](https://drive.google.com/file/d/1mDujUYcGl1ZdyCv-cbxpPoOs5Ae4Bgfj/view?usp=sharing)) and copy the `annotations`, `images` and `calibrations` folder into this repo. 
+- download (from [Baidu Drive](https://pan.baidu.com/s/1s67xf8eznms3eF6GfluYSg) `Extraction Code: 6666` and copy the `annotations`, `images` and `calibrations` folder into this repo. 
 - run the following command.
 ```shell script
 python data.py
