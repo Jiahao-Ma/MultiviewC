@@ -4,7 +4,8 @@ MultiviewC engine, the platform that support for multi-person online data collec
 ![alt text](https://github.com/Robert-Mar/MultiviewC/tree/main/github_material/MulitiviewC_nolabel.gif "7 cameras view in MultiviewC dataset.") 
 
 The engine captures accurate 3D and 2D information of the target (cattle), as well as the target's movements and the spatial distribution of the farm. 
-![alt text](https://github.com/Robert-Mar/MultiviewC/tree/main/github_material/MulitiviewC_nolabel.gif "Labeled targets in 7 view and occupancy map.") 
+
+![image](https://github.com/Robert-Mar/MultiviewC/tree/main/github_material/MulitiviewC_nolabel.gif)   
 
 ## Toolkits for MultiviewC dataset
 
