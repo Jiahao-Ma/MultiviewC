@@ -1,4 +1,4 @@
-# MultiviewC dataset toolkits and engine! 
+# MultiviewC engine and dataset toolkits! 
 ## MultiviewC engine based on UE4.
 MultiviewC engine, the platform that support for multi-person online data collection, are released! 
 
