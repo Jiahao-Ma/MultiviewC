@@ -1,12 +1,12 @@
 # MultiviewC dataset toolkits and engine! 
 ## MultiviewC engine based on UE4.
 MultiviewC engine, the platform that support for multi-person online data collection, are released! 
+![img](https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/MulitiviewC_nolabel.gif)
 
-![img](https://github.com/Robert-Mar/MultiviewC/tree/main/github_material/MulitiviewC_label.gif)   
+The engine captures accurate 3D and 2D information of the target (cattle), as well as the target's movements and the spatial distribution of the farm. Among other things, the cattle have a random running logic where they naturally stop their current movement and switch movements when they meet or collide.
+![img](https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/MulitiviewC_label.gif)
 
-The engine captures accurate 3D and 2D information of the target (cattle), as well as the target's movements and the spatial distribution of the farm. 
-
-![img](https://github.com/Robert-Mar/MultiviewC/tree/main/github_material/MulitiviewC_nolabel.gif)   
+![img](https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/clip.gif)
 
 ## Toolkits for MultiviewC dataset
 
