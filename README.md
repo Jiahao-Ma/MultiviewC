@@ -4,11 +4,18 @@ MultiviewC engine, the platform that support for multi-person online data collec
 
 ![img](https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/MulitiviewC_nolabel.gif)
 
+### Data annotation
 The engine captures accurate 3D and 2D information of the target (cattle), as well as the target's movements and the spatial distribution of the farm. Among other things, the cattle have a random running logic where they naturally stop their current movement and switch movements when they meet or collide.
 
 ![img](https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/MulitiviewC_label.gif)
 
-![img](https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/clip.gif)
+### Perspective switching
+MultiviewC engine contains eight fixed location for camera acquisition where camera 8 is not involved in filming and acquisition during dataset acquisition. We have the freedom to switch the viewpoint to capture the specific image we need.
+
+<div align=center>
+<img src="https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/clip.gif" width="700" height="385">
+</div>
+
 
 ## Toolkits for MultiviewC dataset
 
