@@ -1,0 +1,1696 @@
+{
+    "C1": [
+        {
+            "CowID": "Cow0",
+            "action": "eat",
+            "location": [
+                3587,
+                1204,
+                0
+            ],
+            "rotation": 77,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow1",
+            "action": "run",
+            "location": [
+                1903,
+                1317,
+                0
+            ],
+            "rotation": -145,
+            "dimension": [
+                152,
+                107,
+                246
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow2",
+            "action": "sleep",
+            "location": [
+                493,
+                334,
+                0
+            ],
+            "rotation": -74,
+            "dimension": [
+                141,
+                119,
+                255
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow3",
+            "action": "eat",
+            "location": [
+                3713,
+                1314,
+                0
+            ],
+            "rotation": 180,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow4",
+            "action": "eat",
+            "location": [
+                1158,
+                924,
+                0
+            ],
+            "rotation": -114,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow5",
+            "action": "sleep",
+            "location": [
+                3515,
+                950,
+                0
+            ],
+            "rotation": -91,
+            "dimension": [
+                147,
+                113,
+                250
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow6",
+            "action": "walk",
+            "location": [
+                2004,
+                252,
+                0
+            ],
+            "rotation": -127,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow7",
+            "action": "sleep",
+            "location": [
+                3007,
+                794,
+                0
+            ],
+            "rotation": 29,
+            "dimension": [
+                114,
+                150,
+                278
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow8",
+            "action": "run",
+            "location": [
+                2452,
+                1042,
+                0
+            ],
+            "rotation": 13,
+            "dimension": [
+                155,
+                104,
+                244
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow9",
+            "action": "eat",
+            "location": [
+                3511,
+                773,
+                0
+            ],
+            "rotation": 79,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow10",
+            "action": "sleep",
+            "location": [
+                3633,
+                1403,
+                0
+            ],
+            "rotation": 83,
+            "dimension": [
+                151,
+                108,
+                246
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow11",
+            "action": "idle",
+            "location": [
+                317,
+                3175,
+                0
+            ],
+            "rotation": 126,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow12",
+            "action": "walk",
+            "location": [
+                2401,
+                478,
+                0
+            ],
+            "rotation": -177,
+            "dimension": [
+                146,
+                113,
+                251
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow13",
+            "action": "sleep",
+            "location": [
+                3110,
+                854,
+                0
+            ],
+            "rotation": 61,
+            "dimension": [
+                114,
+                150,
+                278
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow14",
+            "action": "sleep",
+            "location": [
+                695,
+                60,
+                0
+            ],
+            "rotation": -121,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        }
+    ],
+    "C2": [
+        {
+            "CowID": "Cow0",
+            "action": "eat",
+            "location": [
+                3587,
+                1204,
+                0
+            ],
+            "rotation": 77,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow1",
+            "action": "run",
+            "location": [
+                1875,
+                1298,
+                0
+            ],
+            "rotation": -145,
+            "dimension": [
+                152,
+                107,
+                246
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow2",
+            "action": "sleep",
+            "location": [
+                493,
+                333,
+                0
+            ],
+            "rotation": -75,
+            "dimension": [
+                144,
+                116,
+                252
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow3",
+            "action": "eat",
+            "location": [
+                3713,
+                1314,
+                0
+            ],
+            "rotation": -180,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow4",
+            "action": "eat",
+            "location": [
+                1158,
+                924,
+                0
+            ],
+            "rotation": -114,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow5",
+            "action": "sleep",
+            "location": [
+                3515,
+                950,
+                0
+            ],
+            "rotation": -91,
+            "dimension": [
+                148,
+                112,
+                249
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow6",
+            "action": "walk",
+            "location": [
+                2003,
+                252,
+                0
+            ],
+            "rotation": -128,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow7",
+            "action": "sleep",
+            "location": [
+                3007,
+                794,
+                0
+            ],
+            "rotation": 30,
+            "dimension": [
+                114,
+                150,
+                278
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow8",
+            "action": "run",
+            "location": [
+                2485,
+                1049,
+                0
+            ],
+            "rotation": 13,
+            "dimension": [
+                153,
+                106,
+                245
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow9",
+            "action": "eat",
+            "location": [
+                3511,
+                773,
+                0
+            ],
+            "rotation": 79,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow10",
+            "action": "sleep",
+            "location": [
+                3633,
+                1403,
+                0
+            ],
+            "rotation": 83,
+            "dimension": [
+                151,
+                108,
+                247
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow11",
+            "action": "run",
+            "location": [
+                316,
+                3175,
+                0
+            ],
+            "rotation": 127,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow12",
+            "action": "walk",
+            "location": [
+                2392,
+                478,
+                0
+            ],
+            "rotation": -177,
+            "dimension": [
+                146,
+                113,
+                250
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow13",
+            "action": "sleep",
+            "location": [
+                3110,
+                854,
+                0
+            ],
+            "rotation": 62,
+            "dimension": [
+                114,
+                150,
+                278
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow14",
+            "action": "sleep",
+            "location": [
+                695,
+                60,
+                0
+            ],
+            "rotation": -121,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        }
+    ],
+    "C3": [
+        {
+            "CowID": "Cow0",
+            "action": "eat",
+            "location": [
+                3587,
+                1204,
+                0
+            ],
+            "rotation": 77,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow1",
+            "action": "run",
+            "location": [
+                1885,
+                1304,
+                0
+            ],
+            "rotation": -145,
+            "dimension": [
+                150,
+                109,
+                247
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow2",
+            "action": "sleep",
+            "location": [
+                493,
+                333,
+                0
+            ],
+            "rotation": -75,
+            "dimension": [
+                144,
+                116,
+                252
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow3",
+            "action": "eat",
+            "location": [
+                3713,
+                1314,
+                0
+            ],
+            "rotation": -180,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow4",
+            "action": "eat",
+            "location": [
+                1158,
+                924,
+                0
+            ],
+            "rotation": -114,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow5",
+            "action": "sleep",
+            "location": [
+                3515,
+                950,
+                0
+            ],
+            "rotation": -91,
+            "dimension": [
+                147,
+                113,
+                250
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow6",
+            "action": "walk",
+            "location": [
+                2004,
+                252,
+                0
+            ],
+            "rotation": -127,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow7",
+            "action": "sleep",
+            "location": [
+                3007,
+                794,
+                0
+            ],
+            "rotation": 30,
+            "dimension": [
+                114,
+                150,
+                278
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow8",
+            "action": "run",
+            "location": [
+                2474,
+                1047,
+                0
+            ],
+            "rotation": 13,
+            "dimension": [
+                153,
+                105,
+                245
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow9",
+            "action": "eat",
+            "location": [
+                3511,
+                773,
+                0
+            ],
+            "rotation": 79,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow10",
+            "action": "sleep",
+            "location": [
+                3633,
+                1403,
+                0
+            ],
+            "rotation": 83,
+            "dimension": [
+                151,
+                108,
+                247
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow11",
+            "action": "run",
+            "location": [
+                316,
+                3175,
+                0
+            ],
+            "rotation": 127,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow12",
+            "action": "walk",
+            "location": [
+                2395,
+                478,
+                0
+            ],
+            "rotation": -177,
+            "dimension": [
+                146,
+                113,
+                251
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow13",
+            "action": "sleep",
+            "location": [
+                3110,
+                854,
+                0
+            ],
+            "rotation": 62,
+            "dimension": [
+                114,
+                150,
+                278
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow14",
+            "action": "sleep",
+            "location": [
+                695,
+                60,
+                0
+            ],
+            "rotation": -121,
+            "dimension": [
+                150,
+                110,
+                248
+            ],
+            "visible": 1
+        }
+    ],
+    "C4": [
+        {
+            "CowID": "Cow0",
+            "action": "eat",
+            "location": [
+                3587,
+                1204,
+                0
+            ],
+            "rotation": 77,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow1",
+            "action": "run",
+            "location": [
+                1854,
+                1283,
+                0
+            ],
+            "rotation": -145,
+            "dimension": [
+                155,
+                104,
+                243
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow2",
+            "action": "sleep",
+            "location": [
+                493,
+                333,
+                0
+            ],
+            "rotation": -75,
+            "dimension": [
+                144,
+                116,
+                252
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow3",
+            "action": "eat",
+            "location": [
+                3713,
+                1314,
+                0
+            ],
+            "rotation": -180,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow4",
+            "action": "eat",
+            "location": [
+                1158,
+                924,
+                0
+            ],
+            "rotation": -114,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow5",
+            "action": "sleep",
+            "location": [
+                3515,
+                950,
+                0
+            ],
+            "rotation": -91,
+            "dimension": [
+                147,
+                112,
+                250
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow6",
+            "action": "walk",
+            "location": [
+                2004,
+                252,
+                0
+            ],
+            "rotation": -127,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow7",
+            "action": "sleep",
+            "location": [
+                3007,
+                794,
+                0
+            ],
+            "rotation": 30,
+            "dimension": [
+                114,
+                150,
+                278
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow8",
+            "action": "run",
+            "location": [
+                2510,
+                1055,
+                0
+            ],
+            "rotation": 13,
+            "dimension": [
+                153,
+                107,
+                245
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow9",
+            "action": "eat",
+            "location": [
+                3511,
+                773,
+                0
+            ],
+            "rotation": 79,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow10",
+            "action": "sleep",
+            "location": [
+                3633,
+                1403,
+                0
+            ],
+            "rotation": 83,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow11",
+            "action": "run",
+            "location": [
+                316,
+                3175,
+                0
+            ],
+            "rotation": 127,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow12",
+            "action": "walk",
+            "location": [
+                2385,
+                477,
+                0
+            ],
+            "rotation": -177,
+            "dimension": [
+                147,
+                113,
+                250
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow13",
+            "action": "sleep",
+            "location": [
+                3110,
+                854,
+                0
+            ],
+            "rotation": 62,
+            "dimension": [
+                114,
+                150,
+                278
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow14",
+            "action": "sleep",
+            "location": [
+                695,
+                60,
+                0
+            ],
+            "rotation": -121,
+            "dimension": [
+                150,
+                109,
+                247
+            ],
+            "visible": 1
+        }
+    ],
+    "C5": [
+        {
+            "CowID": "Cow0",
+            "action": "eat",
+            "location": [
+                3587,
+                1204,
+                0
+            ],
+            "rotation": 77,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow1",
+            "action": "run",
+            "location": [
+                1878,
+                1300,
+                0
+            ],
+            "rotation": -145,
+            "dimension": [
+                148,
+                111,
+                249
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow2",
+            "action": "sleep",
+            "location": [
+                493,
+                333,
+                0
+            ],
+            "rotation": -75,
+            "dimension": [
+                146,
+                114,
+                251
+            ],
+            "visible": 0
+        },
+        {
+            "CowID": "Cow3",
+            "action": "eat",
+            "location": [
+                3713,
+                1314,
+                0
+            ],
+            "rotation": -180,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow4",
+            "action": "eat",
+            "location": [
+                1158,
+                924,
+                0
+            ],
+            "rotation": -114,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow5",
+            "action": "sleep",
+            "location": [
+                3515,
+                950,
+                0
+            ],
+            "rotation": -91,
+            "dimension": [
+                148,
+                112,
+                249
+            ],
+            "visible": 0
+        },
+        {
+            "CowID": "Cow6",
+            "action": "walk",
+            "location": [
+                2003,
+                252,
+                0
+            ],
+            "rotation": -128,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow7",
+            "action": "sleep",
+            "location": [
+                3007,
+                794,
+                0
+            ],
+            "rotation": 30,
+            "dimension": [
+                114,
+                150,
+                278
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow8",
+            "action": "run",
+            "location": [
+                2481,
+                1048,
+                0
+            ],
+            "rotation": 13,
+            "dimension": [
+                150,
+                109,
+                247
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow9",
+            "action": "eat",
+            "location": [
+                3511,
+                773,
+                0
+            ],
+            "rotation": 79,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 0
+        },
+        {
+            "CowID": "Cow10",
+            "action": "sleep",
+            "location": [
+                3633,
+                1403,
+                0
+            ],
+            "rotation": 83,
+            "dimension": [
+                152,
+                107,
+                246
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow11",
+            "action": "run",
+            "location": [
+                316,
+                3175,
+                0
+            ],
+            "rotation": 127,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow12",
+            "action": "walk",
+            "location": [
+                2392,
+                478,
+                0
+            ],
+            "rotation": -177,
+            "dimension": [
+                145,
+                114,
+                251
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow13",
+            "action": "sleep",
+            "location": [
+                3110,
+                854,
+                0
+            ],
+            "rotation": 62,
+            "dimension": [
+                114,
+                150,
+                278
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow14",
+            "action": "sleep",
+            "location": [
+                695,
+                60,
+                0
+            ],
+            "rotation": -121,
+            "dimension": [
+                149,
+                111,
+                249
+            ],
+            "visible": 0
+        }
+    ],
+    "C6": [
+        {
+            "CowID": "Cow0",
+            "action": "eat",
+            "location": [
+                3587,
+                1204,
+                0
+            ],
+            "rotation": 77,
+            "dimension": [
+                146,
+                114,
+                251
+            ],
+            "visible": 0
+        },
+        {
+            "CowID": "Cow1",
+            "action": "run",
+            "location": [
+                1884,
+                1304,
+                0
+            ],
+            "rotation": -145,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow2",
+            "action": "sleep",
+            "location": [
+                493,
+                333,
+                0
+            ],
+            "rotation": -75,
+            "dimension": [
+                144,
+                116,
+                252
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow3",
+            "action": "eat",
+            "location": [
+                3713,
+                1314,
+                0
+            ],
+            "rotation": -180,
+            "dimension": [
+                150,
+                109,
+                247
+            ],
+            "visible": 0
+        },
+        {
+            "CowID": "Cow4",
+            "action": "eat",
+            "location": [
+                1158,
+                924,
+                0
+            ],
+            "rotation": -114,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow5",
+            "action": "sleep",
+            "location": [
+                3515,
+                950,
+                0
+            ],
+            "rotation": -91,
+            "dimension": [
+                148,
+                112,
+                249
+            ],
+            "visible": 0
+        },
+        {
+            "CowID": "Cow6",
+            "action": "walk",
+            "location": [
+                2004,
+                252,
+                0
+            ],
+            "rotation": -127,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow7",
+            "action": "sleep",
+            "location": [
+                3007,
+                794,
+                0
+            ],
+            "rotation": 30,
+            "dimension": [
+                114,
+                150,
+                278
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow8",
+            "action": "run",
+            "location": [
+                2475,
+                1047,
+                0
+            ],
+            "rotation": 13,
+            "dimension": [
+                148,
+                112,
+                249
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow9",
+            "action": "eat",
+            "location": [
+                3511,
+                773,
+                0
+            ],
+            "rotation": 79,
+            "dimension": [
+                148,
+                111,
+                249
+            ],
+            "visible": 0
+        },
+        {
+            "CowID": "Cow10",
+            "action": "sleep",
+            "location": [
+                3633,
+                1403,
+                0
+            ],
+            "rotation": 83,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 0
+        },
+        {
+            "CowID": "Cow11",
+            "action": "run",
+            "location": [
+                316,
+                3175,
+                0
+            ],
+            "rotation": 127,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow12",
+            "action": "walk",
+            "location": [
+                2394,
+                478,
+                0
+            ],
+            "rotation": -177,
+            "dimension": [
+                146,
+                114,
+                251
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow13",
+            "action": "sleep",
+            "location": [
+                3110,
+                854,
+                0
+            ],
+            "rotation": 62,
+            "dimension": [
+                114,
+                150,
+                278
+            ],
+            "visible": 0
+        },
+        {
+            "CowID": "Cow14",
+            "action": "sleep",
+            "location": [
+                695,
+                60,
+                0
+            ],
+            "rotation": -121,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        }
+    ],
+    "C7": [
+        {
+            "CowID": "Cow0",
+            "action": "eat",
+            "location": [
+                3587,
+                1204,
+                0
+            ],
+            "rotation": 77,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow1",
+            "action": "run",
+            "location": [
+                1876,
+                1299,
+                0
+            ],
+            "rotation": -145,
+            "dimension": [
+                150,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow2",
+            "action": "sleep",
+            "location": [
+                493,
+                333,
+                0
+            ],
+            "rotation": -75,
+            "dimension": [
+                147,
+                113,
+                250
+            ],
+            "visible": 0
+        },
+        {
+            "CowID": "Cow3",
+            "action": "eat",
+            "location": [
+                3713,
+                1314,
+                0
+            ],
+            "rotation": -180,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow4",
+            "action": "eat",
+            "location": [
+                1158,
+                924,
+                0
+            ],
+            "rotation": -114,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow5",
+            "action": "sleep",
+            "location": [
+                3515,
+                950,
+                0
+            ],
+            "rotation": -91,
+            "dimension": [
+                147,
+                112,
+                250
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow6",
+            "action": "walk",
+            "location": [
+                2004,
+                252,
+                0
+            ],
+            "rotation": -127,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow7",
+            "action": "idle",
+            "location": [
+                3007,
+                794,
+                0
+            ],
+            "rotation": 30,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow8",
+            "action": "run",
+            "location": [
+                2484,
+                1049,
+                0
+            ],
+            "rotation": 13,
+            "dimension": [
+                143,
+                117,
+                253
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow9",
+            "action": "eat",
+            "location": [
+                3511,
+                773,
+                0
+            ],
+            "rotation": 79,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow10",
+            "action": "sleep",
+            "location": [
+                3633,
+                1403,
+                0
+            ],
+            "rotation": 83,
+            "dimension": [
+                151,
+                108,
+                247
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow11",
+            "action": "run",
+            "location": [
+                316,
+                3175,
+                0
+            ],
+            "rotation": 127,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 0
+        },
+        {
+            "CowID": "Cow12",
+            "action": "walk",
+            "location": [
+                2392,
+                478,
+                0
+            ],
+            "rotation": -177,
+            "dimension": [
+                146,
+                114,
+                251
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow13",
+            "action": "run",
+            "location": [
+                3110,
+                854,
+                0
+            ],
+            "rotation": 62,
+            "dimension": [
+                149,
+                110,
+                248
+            ],
+            "visible": 1
+        },
+        {
+            "CowID": "Cow14",
+            "action": "sleep",
+            "location": [
+                695,
+                60,
+                0
+            ],
+            "rotation": -121,
+            "dimension": [
+                148,
+                112,
+                249
+            ],
+            "visible": 0
+        }
+    ]
+}

@@ -2,7 +2,8 @@ import json, os, cv2
 import matplotlib.pyplot as plt
 from PIL import Image
 import numpy as np
-from utils.utils import draw_3DBBox, vis_colors, vis_styles, compute_3d_bbox, corners8_to_rect4
+from utils.utils import draw_3DBBox, vis_colors, vis_styles, compute_3d_bbox, corners8_to_rect4, GaussianKernel
+from adjustText import adjust_text
 
 intrinsic_camera_matrix_filenames = ['intr_Camera1.xml', 'intr_Camera2.xml', 'intr_Camera3.xml', 'intr_Camera4.xml',
                                      'intr_Camera5.xml', 'intr_Camera6.xml', 'intr_Camera7.xml']
@@ -21,7 +22,7 @@ class MultiviewCow(object):
             json_root: annotation path
             img_root: image path
             calib_root: calibration path
-            cam_range: default value： range(1, 8), represent the camera ID
+            cam_range: default value: range(1, 8), represent the camera ID
 
             # MultiviewC Map Setting: 
             #     Size of farm: w=3900(cm) h=3900(cm)
@@ -110,7 +111,7 @@ class MultiviewCow(object):
             annotations = json.load(f)
         return annotations, image_fnames
     
-    def visualize(self, index, camid, fontsize=8, show_2D_bbox=False, figsize=(15, 8), linewidth3D=1):
+    def visualize(self, index, camid, fontsize=8, show_2D_bbox=False, figsize=(15, 8), linewidth3D=2, linewidth2D=1.5):
         """
             Args:
                 annotations: `dict`, contains the label information of all perpespectives (7 views) at this moment.
@@ -119,6 +120,18 @@ class MultiviewCow(object):
                 calib_fnames: `list`, stores calibration file path of 7 views
         """
         assert camid in range(0, 7), "camera index ranges from 0 to 6"
+
+        # save
+        save_root = r'F:\ANU\ENGN8602\Data\MultiviewC_github\MultiviewC\viz_images'
+        if not os.path.exists(save_root):
+            os.mkdir(save_root)
+        save_cam_root = os.path.join(save_root, "C{}".format(camid+1))
+        if not os.path.exists(save_cam_root):
+            os.mkdir(save_cam_root)
+        img_save_path = os.path.join(save_cam_root, '{:03d}.png'.format(index))
+        if os.path.exists(img_save_path):
+            print(img_save_path, 'exists. Continue')
+            return 
         
         annotations, image_fnames = self.__getitem__(index)
         annotation = annotations['C{}'.format(camid+1)]
@@ -146,6 +159,7 @@ class MultiviewCow(object):
         ax.axis('off')
         plt.xlim(0, 1280)
         plt.ylim(720, 0)
+        new_texts = list()
         for ann in annotation:
             # read annotation and compute 3D bbox in 2D image
             visible = ann['visible']
@@ -171,17 +185,52 @@ class MultiviewCow(object):
             if show_2D_bbox:
                 width = xmax - xmin 
                 height = ymax - ymin
-                rect = plt.Rectangle([xmin, ymin], width, height, color=(1, 0, 0), linewidth=3, fill=False)
+                rect = plt.Rectangle([xmin, ymin], width, height, color=(1, 0, 0), linewidth=linewidth2D, fill=False)
                 ax.add_patch(rect)
-            ax = draw_3DBBox(ax, corner_2d, linewidth=linewidth3D)
-            ax.text(corner_2d[4][0], corner_2d[4][1]-15, s='{}: {}'.format(label, action), **styples)
-        plt.show()
+            ax = draw_3DBBox(ax, corner_2d, edgecolor=(0, 1, 0),linewidth=linewidth3D)
+            new_texts.append(ax.text(corner_2d[4][0], corner_2d[4][1]-15, s='{}: {}'.format(label, action), **styples, clip_on=True))
+        # adjust text location
+        adjust_text(new_texts, 
+            only_move={'text': 'x'},
+            save_steps=False)
+        
+        plt.savefig(img_save_path, bbox_inches = 'tight',pad_inches = 0, dpi=300)
+        # plt.show()
+        plt.close()
         return ax
+    
+    def save_bev_label(self, img_indx):
+        save_dir = r'F:\ANU\ENGN8602\Data\MultiviewC_github\MultiviewC\viz_images\Z_BEV'
+        save_dir = os.path.join(save_dir, "{:03}.png".format(img_indx))
+        annotations, image_fnames = self.__getitem__(img_indx)
+        annotation = annotations['C1']
+        save_root = r'F:\ANU\ENGN8602\Data\MultiviewC_github\MultiviewC\viz_images\Z_BEV'
+        if not os.path.exists(save_root):
+            os.mkdir(save_root)
+        heatmap = np.zeros(shape=(156, 156))
+        gk = GaussianKernel(heatmaps=heatmap)
+        for ann in annotation:
+            location = np.array(ann['location'][:2])
+            """
+            # `25` is scale factor from world_coord to world grid. 
+            # See https://github.com/Robert-Mar/VFA/blob/main/vfa/data/multiviewC.py
+            # the value of `cube_LWH` in class MultiviewC params 
+            """
+            location = location / 25
+            heatmap = gk.gaussian_kernel_heatmap(heatmap, location[0], location[1])
+        gk.generate()
+        gk.viz_gk(True, save_dir)
+        pass
 
 
 if __name__ == '__main__':
     import sys
     dataset = MultiviewCow()
-    annotations, image_fnames = dataset[0]
-    for i in range(0,7):
-        dataset.visualize(index=0, camid=i, show_2D_bbox=True)
+    for img_id in range(len(dataset)):
+        if img_id <=9:
+            continue
+        annotations, image_fnames = dataset[img_id]
+        for cam_id in range(0,7):
+            dataset.visualize(index=img_id, camid=cam_id, show_2D_bbox=True, linewidth3D=1.5, linewidth2D=2)
+        dataset.save_bev_label(img_id)
+        print('[{}/{}] Complete.'.format(img_id, len(dataset)))
