@@ -26,7 +26,18 @@ To enable multi-view capture, the engine offers LAN online capability, allowing 
 ### Data collection and video recording
 The engine features real-time video recording, data capture and more. The frequency of data acquisition can be customized. The data captured includes information on the rotation, dimension, position, action etc. of the target and the data is stored in the txt file. 
 
-<img src="https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/data.gif" width="400" height="180">  <img src="https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/video.gif" width="400" height="180">
+<p align="center"><strong> --- Data collection --- </strong></p>
+
+<div align=center>
+<img src="https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/data.gif" width="600" height="230">  
+</div>
+
+
+<p align="center"><strong> --- Video recording --- </strong></p>
+
+<div align=center>
+<img src="https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/video.gif" width="600" height="230">
+</div>
 
 ## Toolkits for MultiviewC dataset
 
