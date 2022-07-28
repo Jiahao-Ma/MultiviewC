@@ -39,6 +39,10 @@ The engine features real-time video recording, data capture and more. The freque
 <img src="https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/video.gif" width="600" height="230">
 </div>
 
+### Download
+Download MultiviewC Engine from [BaiduDrive](https://pan.baidu.com/s/1mBRpA199ApNIw8FvTSoFKA)(pwd:6666) or [GoogleDrive](). Notice: MultiviewC engine only supports windows system.
+
+
 ## Toolkits for MultiviewC dataset
 
 ### Overview
