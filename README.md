@@ -16,6 +16,17 @@ MultiviewC engine contains eight fixed location for camera acquisition where cam
 <img src="https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/clip.gif" width="700" height="385">
 </div>
 
+### Multi-player simultaneous collection
+To enable multi-view capture, the engine offers LAN online capability, allowing 50 players to capture online at the same time. The server will synchronise all players' collection operations and the data collected by each will be saved to the local machine.
+
+<div align=center>
+<img src="https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/multi_process.gif" width="700" height="385">
+</div>
+
+### Data collection and video recording
+The engine features real-time video recording, data capture and more. The frequency of data acquisition can be customized. The data captured includes information on the rotation, dimension, position, action etc. of the target and the data is stored in the txt file. 
+
+<img src="https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/data.gif" width="500" height="230">  <img src="https://github.com/Robert-Mar/MultiviewC/blob/main/github_material/video.gif" width="500" height="230">
 
 ## Toolkits for MultiviewC dataset
 
